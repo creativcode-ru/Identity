@@ -12,7 +12,7 @@
 
 * [Реализация OAuth 2.0 и OpenID Connect в C # (Authlete)](https://medium.com/@darutk/oauth-2-0-and-openid-connect-implementation-in-c-authlete-8a8f9efc9361)
 
-* [Иллюстрированное руководство по OAuth и OpenID Connect / Блог компании Флант / Хабр](tps://habr.com/ru/company/flant/blog/475942/)
+* [Иллюстрированное руководство по OAuth и OpenID Connect / Блог компании Флант / Хабр](https://habr.com/ru/company/flant/blog/475942/)
 
 * [Авторизация доступа к веб-приложениям с помощью OpenID Connect Connect & Azure AD | Microsoft Docs](https://docs.microsoft.com/ru-ru/azure/active-directory/develop/v1-protocols-openid-connect-code)
 
@@ -23,3 +23,17 @@
 * [OpenID — Википедия](https://ru.m.wikipedia.org/wiki/OpenID)
 
 * [Введение в OAuth 2 | DigitalOcean](https://www.digitalocean.com/community/tutorials/oauth-2-ru)
+
+* [Аутентификация и авторизация в микросервисных приложениях / Блог компании DataArt / Хабр](https://habr.com/ru/company/dataart/blog/311376/)
+
+* [Как сервер аутентификации взаимодействует с другими серверами и устройством пользователя? — Хабр Q&A](https://qna.habr.com/q/535576)
+
+* [Сервер аутентификации Blitz Identity Provider. Единый вход, SSO, двухфакторная аутентификация.](https://identityblitz.ru/products/blitz-identity-provider/)
+
+* [Как объединить авторизацию на нескольких доменах? — Хабр Q&A](https://qna.habr.com/q/436413)
+
+* [Как установить одинаковые куки на разных доменах - Subin's Blog](https://subinsb.com/set-same-cookie-on-different-domains/)
+
+* [Межсайтовая авторизация 2 / Хабр](https://habr.com/ru/post/80900/)
+
+* [Межсайтовая авторизация (SSO) / Хабр](https://habr.com/ru/post/64002/)
