@@ -22,7 +22,7 @@
 
 * [Введение в OAuth 2 | DigitalOcean](https://www.digitalocean.com/community/tutorials/oauth-2-ru)
 
-* [Взлом веб-аутентификации](https://resources.infosecinstitute.com/authentication-hacking-pt1/)
+* [Взлом веб-аутентификации через прокси сервер](https://resources.infosecinstitute.com/authentication-hacking-pt1/)
 
 * [Аутентификация и авторизация в микросервисных приложениях / Блог компании DataArt / Хабр](https://habr.com/ru/company/dataart/blog/311376/)
 
