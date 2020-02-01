@@ -22,9 +22,24 @@
 
 * [Введение в OAuth 2 | DigitalOcean](https://www.digitalocean.com/community/tutorials/oauth-2-ru)
 
+* [Взлом веб-аутентификации](https://resources.infosecinstitute.com/authentication-hacking-pt1/)
+
 * [Аутентификация и авторизация в микросервисных приложениях / Блог компании DataArt / Хабр](https://habr.com/ru/company/dataart/blog/311376/)
 
+2016г.
+Как развивалась технология
+
+1. HTTP Basic Authentication. 
 man-in-the-middle attack, или атаки посредника, в ходе которой при использовании незащищенного соединения учетные данные могут перехватить злоумышленники в момент передачи от клиента к серверу или обратно.
+
+2. HTTP Digest Authentication.
+Использование шифрования. Подвержен атакам 
+
+3. Forms Authentication. Форма ввода логина/пароля отправляет данные на сервер идентификации по защищенному каналу.
+
+4. Token Authentication. Используется соцсетемя (Identity Provider), когда мы входим в приложение (Service Provider) под их учетными записями. Всегда нужен пользователь, чтобы получить доступ к ресурсу.
+
+5. OAuth2 & Open ID Connect.
 
 
 * [Сервер аутентификации Blitz Identity Provider. Единый вход, SSO, двухфакторная аутентификация.](https://identityblitz.ru/products/blitz-identity-provider/)
