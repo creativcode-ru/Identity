@@ -14,6 +14,8 @@
 
 * [Авторизация доступа к веб-приложениям с помощью OpenID Connect Connect & Azure AD | Microsoft Docs](https://docs.microsoft.com/ru-ru/azure/active-directory/develop/v1-protocols-openid-connect-code)
 
+Описание протокола для Azure AD
+
 * [OpenID Connect 1.0 На Пальцах / Хабр](https://habr.com/ru/post/422765/)
 
 * [Разница между OpenID и OAuth](https://softwaremaniacs.org/blog/2011/07/14/openid-oauth-difference/)
