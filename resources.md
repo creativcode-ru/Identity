@@ -4,6 +4,8 @@
 
 * [Добро пожаловать в IdentityServer4 (последняя версия) - документация по IdentityServer4 1.0.0](http://docs.identityserver.io/en/latest/)
 
+* [Официальный сайт OpenId Connect](https://openid.net/connect/)
+
 * [Имплементация OpenId Connect в ASP.NET Core при помощи IdentityServer4 и oidc-client / Хабр](https://habr.com/ru/post/337784/)
 
 * [ASP.NET Identity | Использование OpenID и OAuth](https://professorweb.ru/my/ASP_NET/identity/level1/1_10.php)
