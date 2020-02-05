@@ -8,6 +8,8 @@
 
 * [ASP.NET Identity | Использование OpenID и OAuth](https://professorweb.ru/my/ASP_NET/identity/level1/1_10.php)
 
+Схемы работы OpenId и OAuth. Microsoft.Owin.Security.OAuth - Аутентифкация через любые сервисы, поддерживающие OAuth 2.0  Примеры программирования OAuth на С#
+
 * [Реализация OAuth 2.0 и OpenID Connect в C # (Authlete)](https://medium.com/@darutk/oauth-2-0-and-openid-connect-implementation-in-c-authlete-8a8f9efc9361)
 
 * [Иллюстрированное руководство по OAuth и OpenID Connect / Блог компании Флант / Хабр](https://habr.com/ru/company/flant/blog/475942/)
